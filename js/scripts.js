@@ -29,7 +29,7 @@ $(document).ready(function() {
 $(document).ready(function() {
 	"use strict";
 	$("#countdown").countdown({
-		date: "01 september 2016 12:00:00", /** Enter new date here **/
+		date: "01 december 2016 12:00:00", /** Enter new date here **/
 		format: "on"
 	},
 	function() {
